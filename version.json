@@ -1,15 +1,15 @@
 {
-  "versionMacM": "1.0.0-MAC-M",
-  "versionMacIntel": "1.0.0-INTELMAC",
-  "versionWin": "1.0.0-Wind",
-  "updateUrlMacM": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.0/TAGBR-Installer-MacM.dmg",
-  "updateUrlMacIntel": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.0/TAGBR-Installer-Intel.dmg",
-  "updateUrlWin": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.0/TAGBR-TOTAL-Setup-1.0.0-Wind.exe",
-  "version": "1.0.0",
-  "updateUrl": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.0/TAGBR-Installer-MacM.dmg",
-  "updateUrlArm": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.0/TAGBR-Installer-MacM.dmg",
-  "updateUrlIntel": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.0/TAGBR-Installer-Intel.dmg",
+  "versionMacM": "1.0.1-MAC-M",
+  "versionMacIntel": "1.0.1-INTELMAC",
+  "versionWin": "1.0.1-Wind",
+  "updateUrlMacM": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.1/TAGBR-Installer.dmg",
+  "updateUrlMacIntel": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.1/TAGBR-Installer-Intel.dmg",
+  "updateUrlWin": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.1/TAGBR-TOTAL-Setup-1.0.1-Wind.exe",
+  "version": "0.9.12-beta",
+  "updateUrl": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.1/TAGBR-Installer.dmg",
+  "updateUrlArm": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.1/TAGBR-Installer.dmg",
+  "updateUrlIntel": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.1/TAGBR-Installer-Intel.dmg",
   "updateUrlMac": "",
   "updateUrlMacArm": "",
-  "notes": "Primeira release estável 1.0.0. Versões por plataforma: Mac Apple Silicon (MAC-M), Mac Intel (INTELMAC), Windows (Wind)."
+  "notes": "HOTFIX 1.0.1: popup de criar clip agora sincroniza com o cronômetro de parciais em tempo real (bug que fazia todos os clips saírem com a parcial do primeiro clip criado manualmente). Afeta modos video_stats e stats puro — Mac (M + Intel) e Windows receberam a correção."
 }
