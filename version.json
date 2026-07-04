@@ -1,15 +1,15 @@
 {
-  "versionMacM": "1.0.5-MAC-M",
-  "versionMacIntel": "1.0.5-INTELMAC",
-  "versionWin": "1.0.5-Wind",
-  "updateUrlMacM": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.5/TAGBR-TOTAL-1.0.5-MAC-M-arm64.dmg",
-  "updateUrlMacIntel": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.5/TAGBR-TOTAL-1.0.5-INTELMAC-x64.dmg",
-  "updateUrlWin": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.5/TAGBR-TOTAL-Setup-1.0.5-Wind.exe",
-  "version": "1.0.5",
-  "updateUrl": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.5/TAGBR-TOTAL-1.0.5-MAC-M-arm64.dmg",
-  "updateUrlArm": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.5/TAGBR-TOTAL-1.0.5-MAC-M-arm64.dmg",
-  "updateUrlIntel": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.5/TAGBR-TOTAL-1.0.5-INTELMAC-x64.dmg",
+  "versionMacM": "1.0.8-MAC-M",
+  "versionMacIntel": "1.0.8-INTELMAC",
+  "versionWin": "1.0.8-Wind",
+  "updateUrlMacM": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.8/TAGBR-TOTAL-1.0.8-MAC-M-arm64.dmg",
+  "updateUrlMacIntel": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.8/TAGBR-TOTAL-1.0.8-INTELMAC-x64.dmg",
+  "updateUrlWin": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.8/TAGBR-TOTAL-Setup-1.0.8-Wind.exe",
+  "version": "1.0.8",
+  "updateUrl": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.8/TAGBR-TOTAL-1.0.8-MAC-M-arm64.dmg",
+  "updateUrlArm": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.8/TAGBR-TOTAL-1.0.8-MAC-M-arm64.dmg",
+  "updateUrlIntel": "https://github.com/barreicaioTAGBR/tagbr-releases/releases/download/v1.0.8/TAGBR-TOTAL-1.0.8-INTELMAC-x64.dmg",
   "updateUrlMac": "",
   "updateUrlMacArm": "",
-  "notes": "TAGBR TOTAL 1.0.5 — Editar stats direto em Jogos Analisados, modo Câmera+Stats (4º botão), stats durante gravação live sem perder vídeo, mini preview cropado, backup automático antes de cada save."
+  "notes": "TAGBR TOTAL 1.0.8 — 🦽 NOVO MODO HCR (Handebol em Cadeira de Rodas)! Card próprio no menu inicial que abre um jogo HCR com tudo adaptado: ⏱ cronômetro de 2 tempos de 10min (parciais de 5min, 2 por tempo); 🎯 TIPO DE ARREMESSO no popup de cada lance (Padrão · Giro · Goleiro · 7m, com Padrão já pré-selecionado); 🏆 PLACAR PONDERADO — Giro, Goleiro e 7m valem 2 pontos, Padrão vale 1 (o aproveitamento, gols por posse e as stats individuais de jogadores e goleiros continuam contando cada arremesso como 1, pra leitura real); 🥅 SHOOTOUT — botão próprio pra marcar as cobranças, com placar separado que aparece nas estatísticas e no PDF sem contaminar o placar do jogo aberto. As páginas de estatística (Jogo, 1º e 2º tempo, Equipe A/B e o PDF) ganharam o bloco 'Aproveitamento por tipo de arremesso' por equipe, por jogador e por goleiro. 🛠️ Também corrigimos a estatística do goleiro pra contar só os arremessos que ele de fato enfrentou (não confunde mais quando os dois times têm goleiro com o mesmo nome) e melhoramos a tela inicial. O handebol normal não mudou em nada. Bom uso! 🤝"
 }
